@@ -10,11 +10,11 @@ pues esta pelicula tienes aspectos positivos, como la animacion, las diferentes 
 ademas de que algunos tuvieron que aceptar que godzilla gano, en cuanto a detalles de la pelicula hizo falta un poco de desarrollo, ya que, hicieron pelear a estos mounstros, solo por que si y en el momento en el que uno estaba muriendo, el otro lo ayuda, ah otro aspecto bueno sale robotzilla :smiley:.
 
 ### aspectos a calificar
--animacion [x]
--pelea[x]
--desarrollo[]:triumph:
--entretenido[x]
--actuacion[]:triumph:
+- animacion [x]
+- pelea[x]
+- desarrollo[]:triumph:
+- entretenido[x]
+- actuacion[]:triumph:
 
 ### Imagen
 ![Esta es la imagen](C:\Users\Usuario\Desktop\godzilla vs kong)
