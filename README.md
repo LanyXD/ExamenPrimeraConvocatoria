@@ -20,9 +20,9 @@ ademas de que algunos tuvieron que aceptar que godzilla gano, en cuanto a detall
 ![Esta es la imagen](C:\Users\Usuario\Desktop\godzilla vs kong)
 
 ### compañeros de la U :+1:
-@Iris-Perez ¿Que piensas sobre esto?
-@KevinYax11 ¿Que piensas sobre esto?
-@Abelillo14K ¿Que piensas sobre esto?
+- @Iris-Perez ¿Que piensas sobre esto?
+- @KevinYax11 ¿Que piensas sobre esto?
+- @Abelillo14K ¿Que piensas sobre esto?
 
 
 
